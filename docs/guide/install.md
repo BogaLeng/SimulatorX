@@ -3,7 +3,6 @@ lang: zh-CN
 title: 安装SimulatorX
 description: 如何安装SimulatorX开源版或社区版
 ---
-# 安装 SimulatorX 开源版
 
 :::info
 
