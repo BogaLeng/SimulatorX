@@ -64,7 +64,7 @@ Known Issues:
 - 可尝试使用持久化技术运行服务端
 - 可尝试内网穿透技术对特定网络环境暴露服务端。但注意，此操作造成的后果由操作者自行承担。
 
-# 安装SimulatorX官服版
+## 安装SimulatorX官服版
 
 1. 访问[官方下载站](#https://dl.sim.scutbot.cn/)
 
