@@ -3,7 +3,8 @@ title: 新版升级
 ---
 
 <iframe src="//player.bilibili.com/player.html?aid=1906315872&bvid=BV1hU411U7qJ&cid=1627029798&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-SimulatorX 2024UC版本来啦！
+
+## SimulatorX 2024UC版本来啦！
 
 功能更新：
   - 完成2024UC规则适配修复，修改了场地模型，新增选择性复活，远程买血，平衡步自动侧身，雷达系统等功能，新增脱战提示UI
